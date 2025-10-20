@@ -6,4 +6,5 @@
 <img src="./assets/github_pages.PNG" width="500">
 4. Save the changes, refresh the github webpage and the webpage link will appear as follows:
 <img src="./assets/page_link.PNG" width="500">
+5. Sample of hosted html webpage (Resume): https://fyzie.github.io/html_project_1/
 
