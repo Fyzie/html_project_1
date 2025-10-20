@@ -1,4 +1,4 @@
-# How to Host Website on Github
+# How to Host HTML Website on Github
 
 1. Upload your html folders into the github repo.
 2. Make sure that the main html page named index (e.g. index.html).
